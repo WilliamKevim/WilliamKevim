@@ -11,7 +11,6 @@
 ### 📊 GitHub Stats
 
 ![William's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WilliamKevim&show_icons=true&theme=github_dark)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamKevim&layout=compact&theme=github_dark)
 
 ### 🛠️ Tecnologias e habilidades
@@ -20,6 +19,8 @@
 ![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Elementor](https://img.shields.io/badge/-Elementor-92003B?style=flat&logo=elementor&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
+![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?style=flat&logo=react&logoColor=black)
+
 
 
 ### Redes sociais
