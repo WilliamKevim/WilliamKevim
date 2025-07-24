@@ -6,7 +6,7 @@
 - 🎓 Bacharel em Sistemas de Informação pela Universidade Federal de Sergipe.  
 - 🚀 Desenvolvedor Front-end:
   - Iniciante em aplicações Mobile com **React Native** 📱
-  - Desenvolvimento de sites com **WordPress** e construtor **Elementor** e **WPBakery**
+  - Desenvolvimento de sites com **WordPress** juntamente com construtores **Elementor** e **WPBakery**
  
 ### 📊 GitHub Stats
 
