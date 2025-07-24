@@ -8,7 +8,7 @@
   - Iniciante em aplicações Mobile com **React Native** 📱
   - Desenvolvimento de sites com **WordPress** juntamente com construtores **Elementor** e **WPBakery**
  
-### 📊 GitHub Stats
+### 📊 GitHub
 
 ![William's GitHub Stats](https://github-readme-stats.vercel.app/api?username=WilliamKevim&show_icons=true&theme=github_dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=WilliamKevim&layout=compact&theme=github_dark)
