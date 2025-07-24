@@ -5,9 +5,6 @@
 Bacharel em Sistemas de Informação pela Universidade Federal de Sergipe.
 </p>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Welison92&show_icons=true&theme=light&text_color=000080&title_color=000080)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Welison92&layout=compact&theme=light&text_color=000080&title_color=000080)
-
 ## Tecnologias
 
 ## Ferramentas
