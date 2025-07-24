@@ -1,8 +1,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=088D99&width=435&lines=Eu+me+chamo+William.)](https://git.io/typing-svg)<br>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&pause=1000&color=088D99&width=435&lines=Seja+bem-vindo+ao+meu+portf%C3%B3lio!)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=000080&repeat=false&width=435&lines=%F0%9F%8F%83%F0%9F%8F%BB%F0%9F%8F%8B%F0%9F%8F%BB%E2%9A%BD%EF%B8%8F%F0%9F%8C%B3%F0%9F%90%BE%F0%9F%A7%91%F0%9F%8F%BB%E2%80%8D%F0%9F%92%BB)](https://git.io/typing-svg)
-
 <p align="justify">
 Bacharel em Sistemas de Informação pela Universidade Federal de Sergipe.
 </p>
